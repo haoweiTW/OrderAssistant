@@ -1,7 +1,7 @@
 # OrderAssistant
 MetaTrader4 GUI EA
 
-PanelTool Button Click trading (Replace Default Trade Panel)
+PanelTool Button Click trading (Replace Default One-Click-Trading)
 
 Features
 01. Button Click open or close Long positions
